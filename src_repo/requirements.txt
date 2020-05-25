@@ -1,0 +1,6 @@
+tensorflow-gpu==1.13.2
+pandas
+matplotlib
+pillow
+seaborn
+tensorboard

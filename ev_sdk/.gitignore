@@ -1,0 +1,7 @@
+.idea
+*.o
+*.jpg
+*.png
+*.pyc
+**/__pycache__/
+core.*
