@@ -1,4 +1,4 @@
-tensorflow-gpu==1.13.2
+tensorflow-gpu==2.5.1
 pandas
 matplotlib
 pillow
